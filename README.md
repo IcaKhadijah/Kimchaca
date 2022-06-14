@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ica
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/icakhadijah/ 
 
 <!---
 Kimchaca/Kimchaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
